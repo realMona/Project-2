@@ -1,0 +1,29 @@
+#brush {
+	background-color: mediumspringgreen; 
+}
+#frames {
+	background-color: lightcoral;
+}
+#paint {
+	background-color: skyblue;
+}
+
+.item h2{
+	color: white;
+	font-size: 32px;
+}
+h1,h2,h3,p {
+	font-family: Helvetica;
+}
+h1 {
+	background-image: url("img/Image1.jpeg");
+	color:Khaki;
+	font-size: 100px;
+	text-align: center;
+}
+.print {
+	color: blue;
+	font-weight: bold;
+
+}
+
